@@ -23,6 +23,8 @@ As for the local ancestry inference, chromosomes will be divided into windows of
 -   [ ] Global MLP Classifier
 -   [ ] Local MLP Classifier
 
-## Possible Considerations
+## Future Considerations
 
 -   [ ] Linkage disequilibrium based variant pruning
+-   [ ] Ancient DNA after imputation
+-   [ ] Instructions for AADR data processing
