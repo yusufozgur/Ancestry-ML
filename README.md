@@ -16,13 +16,13 @@ In my previous experiments, I have seen Multi Layer Perceptrons (MLPs) with a fe
 
 As for the local ancestry inference, chromosomes will be divided into windows of a set variant count, and then an MLP with the same architecture of global ancestry inference system will be trained on each chromosome window. This can then be visualized in a karyotype plot or chromosomal position vs probability line graph.
 
-# TODO
+## TODO
 
 -   [ ] Variational Autoencoder
     -   [ ] Latent Space Clusterer
 -   [ ] Global MLP Classifier
 -   [ ] Local MLP Classifier
 
-# Possible Considerations
+## Possible Considerations
 
 -   [ ] Linkage disequilibrium based variant pruning
